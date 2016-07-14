@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirebaseAnalyticsDemo</string>
+    <string name="app_code">FirebaseAnalytics</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8000677498673833/2693498101</string>
+    <string name="crash_app">Crash App</string>
+    <string name="sign_in">Sign In</string>
+    <string name="invite_menu_label">Invite</string>
+    <string name="invitation_message">Please join me for a Firebase Analytics Demo</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="invitation_title">Friendly Invite</string>
+    <string name="share_link">Share Deeplink</string>
+</resources>
